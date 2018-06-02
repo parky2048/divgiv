@@ -2,17 +2,17 @@
   "id":"contract_sample",
   "version":"0.0.1",
   "auth":{
-    "name":"Theloop Dev Team",
-    "email":"dev@theloop.co.kr",
+    "name":"ABnIT Dev Team",
+    "email":"sam@abnit.info",
     "org":"Theloop inc"
   },
   "dependencies":{},
   "description":"contract_sample",
   "repository":{
     "type":"git",
-    "url":"git@github.com:theloopkr/contract_sample.git"
+    "url":"git@github.com:parky2048/contract_sample.git"
   },
-  "homepage":"http://www.theloop.co.kr",
+  "homepage":"http://www.abnit.info",
   "function":{
     "query":[
       {
@@ -44,5 +44,4 @@
     ]
   },
   "main":"contract_score"
-
 }
